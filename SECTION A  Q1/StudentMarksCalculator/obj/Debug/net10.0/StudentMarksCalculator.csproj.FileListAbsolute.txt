@@ -1,0 +1,14 @@
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A  Q1\StudentMarksCalculator\bin\Debug\net10.0\StudentMarksCalculator.exe
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A  Q1\StudentMarksCalculator\bin\Debug\net10.0\StudentMarksCalculator.deps.json
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A  Q1\StudentMarksCalculator\bin\Debug\net10.0\StudentMarksCalculator.runtimeconfig.json
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A  Q1\StudentMarksCalculator\bin\Debug\net10.0\StudentMarksCalculator.dll
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A  Q1\StudentMarksCalculator\bin\Debug\net10.0\StudentMarksCalculator.pdb
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A  Q1\StudentMarksCalculator\obj\Debug\net10.0\StudentMarksCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A  Q1\StudentMarksCalculator\obj\Debug\net10.0\StudentMarksCalculator.AssemblyInfoInputs.cache
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A  Q1\StudentMarksCalculator\obj\Debug\net10.0\StudentMarksCalculator.AssemblyInfo.cs
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A  Q1\StudentMarksCalculator\obj\Debug\net10.0\StudentMarksCalculator.csproj.CoreCompileInputs.cache
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A  Q1\StudentMarksCalculator\obj\Debug\net10.0\StudentMarksCalculator.dll
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A  Q1\StudentMarksCalculator\obj\Debug\net10.0\refint\StudentMarksCalculator.dll
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A  Q1\StudentMarksCalculator\obj\Debug\net10.0\StudentMarksCalculator.pdb
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A  Q1\StudentMarksCalculator\obj\Debug\net10.0\StudentMarksCalculator.genruntimeconfig.cache
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A  Q1\StudentMarksCalculator\obj\Debug\net10.0\ref\StudentMarksCalculator.dll
