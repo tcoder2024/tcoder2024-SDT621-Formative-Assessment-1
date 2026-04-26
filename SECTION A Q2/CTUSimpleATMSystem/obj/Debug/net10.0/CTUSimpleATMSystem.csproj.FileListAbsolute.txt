@@ -1,0 +1,14 @@
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A Q2\CTUSimpleATMSystem\bin\Debug\net10.0\CTUSimpleATMSystem.exe
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A Q2\CTUSimpleATMSystem\bin\Debug\net10.0\CTUSimpleATMSystem.deps.json
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A Q2\CTUSimpleATMSystem\bin\Debug\net10.0\CTUSimpleATMSystem.runtimeconfig.json
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A Q2\CTUSimpleATMSystem\bin\Debug\net10.0\CTUSimpleATMSystem.dll
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A Q2\CTUSimpleATMSystem\bin\Debug\net10.0\CTUSimpleATMSystem.pdb
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A Q2\CTUSimpleATMSystem\obj\Debug\net10.0\CTUSimpleATMSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A Q2\CTUSimpleATMSystem\obj\Debug\net10.0\CTUSimpleATMSystem.AssemblyInfoInputs.cache
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A Q2\CTUSimpleATMSystem\obj\Debug\net10.0\CTUSimpleATMSystem.AssemblyInfo.cs
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A Q2\CTUSimpleATMSystem\obj\Debug\net10.0\CTUSimpleATMSystem.csproj.CoreCompileInputs.cache
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A Q2\CTUSimpleATMSystem\obj\Debug\net10.0\CTUSimpleATMSystem.dll
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A Q2\CTUSimpleATMSystem\obj\Debug\net10.0\refint\CTUSimpleATMSystem.dll
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A Q2\CTUSimpleATMSystem\obj\Debug\net10.0\CTUSimpleATMSystem.pdb
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A Q2\CTUSimpleATMSystem\obj\Debug\net10.0\CTUSimpleATMSystem.genruntimeconfig.cache
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION A Q2\CTUSimpleATMSystem\obj\Debug\net10.0\ref\CTUSimpleATMSystem.dll
