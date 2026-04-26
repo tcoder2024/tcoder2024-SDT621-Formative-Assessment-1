@@ -1,0 +1,14 @@
+=== EMFULENI MUNICIPALITY DATA BACKUP ===
+Backup Date: 26 Apr 2026 20:08:56
+Total Residents: 3
+Total Requests: 3
+
+--- RESIDENTS ---
+Lindeka Mntambo|24 Christiaan De Wet, Duncanville|1298745|450
+Thabo Molefe|15 Mpho Street, Rockville|9876543|820
+Nomsa Dlamini|42 Loop Street, Cape Town|4567123|210
+
+--- SERVICE REQUESTS ---
+Lindeka Mntambo|Burst Pipe|4|8|5|Processed|2026/04/26 20:02:38
+Thabo Molefe|Complete Shutdown|5|10|2|Pending|2026/04/26 20:03:07
+Nomsa Dlamini|Low Water Pressure|2|3|12|Processed|2026/04/26 20:03:36

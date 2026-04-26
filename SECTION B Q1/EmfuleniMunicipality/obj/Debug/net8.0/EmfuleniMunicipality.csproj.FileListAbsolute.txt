@@ -1,0 +1,14 @@
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION B Q1\EmfuleniMunicipality\obj\Debug\net8.0\EmfuleniMunicipality.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION B Q1\EmfuleniMunicipality\obj\Debug\net8.0\EmfuleniMunicipality.AssemblyInfoInputs.cache
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION B Q1\EmfuleniMunicipality\obj\Debug\net8.0\EmfuleniMunicipality.AssemblyInfo.cs
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION B Q1\EmfuleniMunicipality\obj\Debug\net8.0\EmfuleniMunicipality.csproj.CoreCompileInputs.cache
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION B Q1\EmfuleniMunicipality\bin\Debug\net8.0\EmfuleniMunicipality.exe
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION B Q1\EmfuleniMunicipality\bin\Debug\net8.0\EmfuleniMunicipality.deps.json
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION B Q1\EmfuleniMunicipality\bin\Debug\net8.0\EmfuleniMunicipality.runtimeconfig.json
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION B Q1\EmfuleniMunicipality\bin\Debug\net8.0\EmfuleniMunicipality.dll
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION B Q1\EmfuleniMunicipality\bin\Debug\net8.0\EmfuleniMunicipality.pdb
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION B Q1\EmfuleniMunicipality\obj\Debug\net8.0\EmfuleniMunicipality.dll
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION B Q1\EmfuleniMunicipality\obj\Debug\net8.0\refint\EmfuleniMunicipality.dll
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION B Q1\EmfuleniMunicipality\obj\Debug\net8.0\EmfuleniMunicipality.pdb
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION B Q1\EmfuleniMunicipality\obj\Debug\net8.0\EmfuleniMunicipality.genruntimeconfig.cache
+C:\VS code 2026 activities and projects\Formative Assessment 1-SDT621\CODE PRJOCTS\SECTION B Q1\EmfuleniMunicipality\obj\Debug\net8.0\ref\EmfuleniMunicipality.dll
